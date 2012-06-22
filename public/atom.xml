@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Eric's Blog]]></title>
+  <title><![CDATA[Eric T's Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-06-21T21:31:21-05:00</updated>
+  <updated>2012-06-21T23:54:21-05:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Eric Stiles]]></name>
+    <name><![CDATA[Eric Todd Stiles]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[initial]]></title>
+    <link href="http://yoursite.com/blog/2012/06/21/initial/"/>
+    <updated>2012-06-21T23:49:00-05:00</updated>
+    <id>http://yoursite.com/blog/2012/06/21/initial</id>
+    <content type="html"><![CDATA[<p>Here is the verbage.</p>
+]]></content>
+  </entry>
   
 </feed>
