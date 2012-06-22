@@ -1,1 +1,10 @@
-Here is the first blog entry.
+---
+layout: post
+title: "initial"
+date: 2012-06-21 23:49
+comments: true
+categories: 
+---
+
+
+Here is the verbage.
