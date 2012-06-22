@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
+title: Eric's Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Eric Stiles
 simple_search: http://google.com/search
-description:
+description: Here's a description... Hmmm...
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: ets04uga
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -81,7 +81,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: ets04uga
 pinboard_count: 3
 
 # Delicious
